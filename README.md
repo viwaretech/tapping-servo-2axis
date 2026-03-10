@@ -1,4 +1,4 @@
-# 🔧 tapping-auto-2axis
+# 🔧 Tapping Auto 2 Axis
 
 ![License](https://img.shields.io/badge/License-Commercial-red)
 ![PLC](https://img.shields.io/badge/PLC-Mitsubishi-blue)
@@ -130,7 +130,7 @@ Possible future improvements:
 
 # 🚀 Download
 
-- **SystemaCounter App (Beta version / Latest)**  
+- **Tapping Auto 2 Axis Project(Latest)**  
    ![Release](https://img.shields.io/github/v/release/viwaretech/tapping-servo-2axis?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/tapping-servo-2axis?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260309-E7352C)<br>
   ➡️ [Release Page](https://github.com/viwaretech/tapping-servo-2axis/releases/latest)  
    ➡️ [Download Project](https://github.com/viwaretech/tapping-servo-2axis/releases/latest/download/tapping-servo-2axis.zip)
